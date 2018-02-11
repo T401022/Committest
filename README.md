@@ -6,3 +6,6 @@ addr:10.184.201.58
 Fri Feb  9 14:07:18 JST 2018
 /home/gakusei/yajima/Osub/nonsub/6000K/pressure/V3/cooldown3ps/100ps/Committest
 addr:10.184.201.58
+Sun Feb 11 09:25:51 JST 2018
+/home/gakusei/yajima/Osub/6000K/sub6/pressure/a9.2/cooldown3ps/100ps/Committest
+addr:10.184.201.55
