@@ -9,3 +9,4 @@
   /home/gakusei/yajima/Osub/3000K/nonsub/a15/cooldown3ps/100ps/Committest 2018-03-10 20:08:44.191685 10.184.201.60
   /home/gakusei/yajima/Osub/3000K/sub18/pressure/a10/cooldown3ps/100ps/Committest 2018-03-17 22:40:14.873732 10.184.201.60
   /home/gakusei/yajima/Osub/3000K/sub18/pressure/a13/cooldown3ps/100ps/Committest 2018-03-28 15:03:03.275697 10.184.201.60
+  /home/gakusei/yajima/Osub/3000K/nonsub/a20/cooldown3ps/100ps/Committest 2018-03-30 05:08:00.848058 10.184.201.60
