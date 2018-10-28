@@ -14,3 +14,5 @@
   /home/gakusei/yajima/Osub/nonsub/6000K/pressure/a15/cooldown3ps/100ps/Committest 2018-07-08 15:54:57.895844 10.184.201.58
 Thu Oct 25 15:11:09 JST 2018
 /home/gakusei/yajima/4000K/nonsub/a10/cooldown3ps/100ps/Committest
+Sun Oct 28 20:45:52 JST 2018
+/home/gakusei/yajima/4000K/nonsub/a9.6/cooldown3ps/100ps/Committest
