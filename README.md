@@ -16,3 +16,6 @@ Thu Oct 25 15:11:09 JST 2018
 /home/gakusei/yajima/4000K/nonsub/a10/cooldown3ps/100ps/Committest
 Sun Oct 28 20:45:52 JST 2018
 /home/gakusei/yajima/4000K/nonsub/a9.6/cooldown3ps/100ps/Committest
+Wed Oct 31 15:45:07 JST 2018
+/home/gakusei/yajima/Osub/4000K/nonsub/a8.0/cooldown3ps/100ps/Committest
+addr:10.184.201.58
