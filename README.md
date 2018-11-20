@@ -84,3 +84,5 @@ Fri Nov 16 07:19:59 JST 2018
 /home/gakusei/yajima/Osub/4000K/sub18/a8.0/cooldown3ps/100ps/Committest
 Fri Nov 16 10:18:19 JST 2018
 /home/gakusei/yajima/Osub/4000K/sub18/a8.4/cooldown3ps/100ps/Committest
+Tue Nov 20 16:08:59 JST 2018
+/home/gakusei/yajima/Osub/4000K/sub18/a7.2/cooldown3ps/100ps/Committest
