@@ -104,3 +104,5 @@ Sat Nov 24 14:01:58 JST 2018
 addr:10.184.201.58
 Sun Nov 25 11:53:34 JST 2018
 /home/gakusei/yajima/Osub/4000K/nonsub/a8.3/cooldown3ps/100ps/Committest
+Sun Nov 25 12:32:18 JST 2018
+/home/gakusei/yajima/Osub/4000K/nonsub/a8.6/cooldown3ps/100ps/Committest
