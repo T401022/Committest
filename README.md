@@ -142,3 +142,5 @@ addr:10.184.201.58
 Fri Dec 28 06:29:53 JST 2018
 /home/gakusei/yajima/Osub/4000K/sub12/a8.9/cooldown3ps/100ps/Committest
 addr:10.184.201.58
+Fri Dec 28 15:20:19 JST 2018
+/home/gakusei/yajima/Osub/6000K/sub3/a9.4/cooldown3ps/100ps/Committest
