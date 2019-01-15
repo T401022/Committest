@@ -162,3 +162,5 @@ Sun Jan 13 21:01:30 JST 2019
 /home/gakusei/yajima/Osub/4000K/sub3/a9.0/cooldown3ps/100ps/Committest
 Tue Jan 15 22:32:11 JST 2019
 /home/gakusei/yajima/Osub/4000K/nonsub/a8.8/cooldown3ps/100ps/Committest
+Tue Jan 15 23:12:18 JST 2019
+/home/gakusei/yajima/Osub/4000K/nonsub/a8.7/cooldown3ps/100ps/Committest
