@@ -167,3 +167,6 @@ Tue Jan 15 23:12:18 JST 2019
 Tue Jan 15 23:46:40 JST 2019
 /home/gakusei/yajima/Osub/4000K/nonsub/a9.0/cooldown3ps/100ps/Committest
 addr:10.184.201.58
+Wed Jan 16 00:02:14 JST 2019
+/home/gakusei/yajima/Osub/4000K/nonsub/a8.9/cooldown3ps/100ps/Committest
+addr:10.184.201.58
